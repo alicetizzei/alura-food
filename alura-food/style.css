@@ -16,9 +16,14 @@ body{
 }
 
 .principal{
-    background-image: url("img/background.png");
+    background-image: url("img/background.jpeg");
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 .container{
     height: 100vh;
+}
+.img {
+    padding: 50%;
 }
