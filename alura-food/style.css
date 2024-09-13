@@ -16,14 +16,17 @@ body{
 }
 
 .principal{
-    background-image: url("img/background.jpeg");
+    background-image: url("comida.jpeg");
     background-repeat: no-repeat;
     background-size: contain;
 }
 
 .container{
     height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
 }
-.img {
-    padding: 50%;
+
+.chef{
+    width: 10%;
 }
