@@ -7,7 +7,7 @@
 
 body{
     background-image: url(site-food.png);
-    background-size:  cover;
+    background-size: 75%  auto;
     background-position: center;
     background-color: var(--cor-de-fundo);
     color: var(--branco-principal);
@@ -21,7 +21,8 @@ body{
 .principal {
     background-image: url("site-food.png");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: 75%  auto;
+    background-position: center;
 }
 
 .container {
