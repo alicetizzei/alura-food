@@ -15,18 +15,12 @@ body{
     padding: 0;
 }
 
-.principal{
-    background-image: url("comida.jpeg");
+.principal {
+    background-image: url("img/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
 }
 
-.container{
+.container {
     height: 100vh;
-    display: grid;
-    grid-template-columns: 50% 50%;
-}
-
-.chef{
-    width: 10%;
 }
